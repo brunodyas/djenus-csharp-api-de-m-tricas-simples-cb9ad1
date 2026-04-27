@@ -1,3 +1,3 @@
 # Notas
 
-Serviço pequeno com enfileirar/desenfileirar tarefas (design de fila interna, API ou CLI conforme linguagem).
+Ferramenta de linha de comando que imprime uma citação aleatória ou por índice.
