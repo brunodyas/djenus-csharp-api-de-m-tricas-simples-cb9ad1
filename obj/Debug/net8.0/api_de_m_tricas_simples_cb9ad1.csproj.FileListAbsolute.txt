@@ -1,0 +1,15 @@
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\bin\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.exe
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\bin\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.deps.json
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\bin\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\bin\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.dll
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\bin\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.pdb
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.sourcelink.json
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.dll
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\refint\api_de_m_tricas_simples_cb9ad1.dll
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.pdb
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\api_de_m_tricas_simples_cb9ad1.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-cb9ad1\obj\Debug\net8.0\ref\api_de_m_tricas_simples_cb9ad1.dll
