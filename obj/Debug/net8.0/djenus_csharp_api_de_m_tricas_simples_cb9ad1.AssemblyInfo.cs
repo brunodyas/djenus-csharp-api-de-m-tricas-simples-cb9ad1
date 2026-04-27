@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_api_de_m_tricas_simples_cb9ad1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3abf30b86a947646a0dee14a3b27928e37b9d78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38cdf986f23060d5479af3e502b10e65e3b2cabe")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_api_de_m_tricas_simples_cb9ad1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_api_de_m_tricas_simples_cb9ad1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
